@@ -19,5 +19,7 @@ In this project, I practiced **DOM manipulation** using JavaScript to make the w
 - Handled form submission using `fetch()` with POST request to GoREST API.
 - Conditional rendering based on API response codes (422 for errors, 201 for success).
 
+### 📌 Live Preview
+[Fill Your Form](https://sandeepmothe.github.io/user_registration_form/FormWebpage.html)
 
 
